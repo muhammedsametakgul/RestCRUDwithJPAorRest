@@ -1,4 +1,4 @@
-package com.samet.restcrudjpa;
+package com.samet.restcrudjpa.rest;
 
 import com.samet.restcrudjpa.entity.Book;
 import com.samet.restcrudjpa.service.BookService;
